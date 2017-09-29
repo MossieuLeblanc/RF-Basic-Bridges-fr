@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BridgeWaterDeep.label>eau profonde (sous un pont)</BridgeWaterDeep.label>
+  <BridgeWaterOceanDeep.label>océan profond(sous un pont)</BridgeWaterOceanDeep.label>
+  <BridgeWaterMovingDeep.label>eau profonde mouvante (sous un pont)</BridgeWaterMovingDeep.label>
+  <BridgeWaterShallow.label>eau peu profonde (sous un pont)</BridgeWaterShallow.label>
+  <BridgeWaterOceanShallow.label>ocean peu profond (sous un pont)</BridgeWaterOceanShallow.label>
+  <BridgeWaterMovingShallow.label>eau peu profonde mouvante (sous un pont)</BridgeWaterMovingShallow.label>
+  <BridgeMarsh.label>marais (sous un pont)</BridgeMarsh.label>
+  <BridgeMud.label>boue (sous un pont)</BridgeMud.label>
+  <StoneBridgeWaterDeep.label>eau profonde (sous un pont)</StoneBridgeWaterDeep.label>
+  <StoneBridgeWaterOceanDeep.label>océan profond (sous un pont)</StoneBridgeWaterOceanDeep.label>
+  <StoneBridgeWaterMovingDeep.label>eau profonde mouvante (sous un pont)</StoneBridgeWaterMovingDeep.label>
+  <StoneBridgeWaterShallow.label>eau peu profonde (sous un pont)</StoneBridgeWaterShallow.label>
+  <StoneBridgeWaterOceanShallow.label>océan peu profond (sous un pont)</StoneBridgeWaterOceanShallow.label>
+  <StoneBridgeWaterMovingShallow.label>eau peu profonde mouvante (sous un pont)</StoneBridgeWaterMovingShallow.label>
+  <StoneBridgeMarsh.label>marais (sous un pont)</StoneBridgeMarsh.label>
+  <StoneBridgeMud.label>boue (sous un pont)</StoneBridgeMud.label>
+
+
+</LanguageData>

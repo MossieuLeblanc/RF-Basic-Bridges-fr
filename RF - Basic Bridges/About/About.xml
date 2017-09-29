@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+	<name>[RF] Basic Bridges [a17]</name>
+	<author>Rainbeau Flambe</author>
+	<url>https://ludeon.com/forums/index.php?topic=32192.0</url>
+	<targetVersion>0.17.0</targetVersion>
+	<description>(Last update: 09/24/2017)
+
+"Basic Bridges," as the name so subtly suggests, allows you to build bridges. (Well, technically, you could also create piers or even a boardwalk. It's really up to you.) No special research is required. All you need is wood or stone. And a bit of steel for reinforcement if you're building over deep water.
+
+All bridges support light construction, so you can, for example, use a bridge to run a power conduit across a river. Additionally, stone bridges will support heavy construction, so you can actually place walls on them.
+
+The fishing functionality which used to be part of this mod has been split off into its own "add-on" mod, so those who want bridges without fish can now have them.
+
+- Rainbeau Flambe (dburgdorf)
+
+=====
+
+Compatibility:
+
+"Basic Bridges" can safely be added to a game in progress, but if you try to remove it from a game in which you've actually built any bridges, you will of course make the map unplayable.
+
+This mod shouldn't conflict with any other mods.
+
+=====
+
+Credits:
+
+The code in "Basic Bridges" borrows a bit from Sulusdacor's "[sd] Bridges" mod. And obviously, the mods are very similar on a conceptual level. I just decided that I wanted a simpler bridges mod, that would be fully compatible with my "Fertile Fields" mod.
+
+The traditional Chinese language files were provided by Steam user Alane.
+
+=====
+
+License:
+
+If you're a modpack maker and want to include "Basic Bridges" in your pack, or if you're a modder and want to use it as the basis of a derivative mod, please feel free to do so. I ask only that you let me know about it. 
+
+=====
+
+If you have any (helpful) suggestions for improvement, please let me know!
+
+	</description>
+
+</ModMetaData>

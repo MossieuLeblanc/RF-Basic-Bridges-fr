@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RBB.BasicBridges>Rainbeau's Basic Bridges</RBB.BasicBridges>
+
+  <RBB.BasicBridge>必須放置於淺水或沼澤。</RBB.BasicBridge>
+  <RBB.DeepWaterBridge>必須放置於深水。</RBB.DeepWaterBridge>
+  <RBB.Boardwalk>必須放置於鄰近水域的點。</RBB.Boardwalk>
+  <RBB.NoFloorOnBridge>不能在橋上安裝地板。</RBB.NoFloorOnBridge>
+  <RBB.NotOnFS>不能放置在釣魚點上。</RBB.NotOnFS>
+  <RBB.FSTooClose>距離另一個釣魚點太近了。</RBB.FSTooClose>
+  <RBB.FishingSpot1>釣魚點必須放置在水上，而非泥地上。</RBB.FishingSpot1>
+  <RBB.FishingSpot2>釣魚點必須放置在水或沼澤上，並鄰近橋樑或是沿岸碼頭。</RBB.FishingSpot2>
+  <RBB.ShellfishTrap>必須放置在水或沼澤上，並鄰近橋樑或是沿岸碼頭。</RBB.ShellfishTrap>
+  <RBB.TrapTooClose>太接近另一個蟹籠。 </RBB.TrapTooClose>
+
+</LanguageData>

@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Basic Bridges\Assemblies\Rainbeau's Basic Bridges.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Basic Bridges\Source\Rainbeau's Basic Bridges\obj\Debug\Rainbeau's Basic Bridges.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RF - Basic Bridges\Source\Rainbeau's Basic Bridges\obj\Debug\Rainbeau's Basic Bridges.dll

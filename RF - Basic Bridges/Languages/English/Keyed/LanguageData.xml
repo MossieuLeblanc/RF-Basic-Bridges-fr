@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RBB.BasicBridges>Rainbeau's Basic Bridges</RBB.BasicBridges>
+	
+	<RBB.BasicBridge>Must be placed on shallow water or marsh</RBB.BasicBridge>
+	<RBB.DeepWaterBridge>Must be placed on deep water</RBB.DeepWaterBridge>
+	<RBB.Boardwalk>Must be placed on a tile adjacent to water</RBB.Boardwalk>
+	<RBB.NoFloorOnBridge>Cannot lay flooring on top of a bridge</RBB.NoFloorOnBridge>
+	<RBB.NotOnFS>Cannot be placed over a fishing spot</RBB.NotOnFS>
+	<RBB.FSTooClose>Another fishing spot is too close</RBB.FSTooClose>
+	<RBB.FishingSpot1>Must be placed with the fishing spot over water or marsh, not mud</RBB.FishingSpot1>
+	<RBB.FishingSpot2>Must be placed with the fishing spot over water and the interaction spot on a bridge or pier</RBB.FishingSpot2>
+	<RBB.ShellfishTrap>Must be placed on water or marsh adjacent to a bridge or boardwalk.</RBB.ShellfishTrap>
+	<RBB.TrapTooClose>Another shellfish trap is too close.</RBB.TrapTooClose>
+	
+</LanguageData>

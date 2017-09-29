@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RBB.BasicBridges>Rainbeau's Basic Bridges</RBB.BasicBridges>
+
+  <RBB.BasicBridge>Doit être placé sur l'eau peu profonde ou des marais.</RBB.BasicBridge>
+  <RBB.DeepWaterBridge>Doit être placé sur l'eau profonde.</RBB.DeepWaterBridge>
+  <RBB.Boardwalk>Doit être placé sur une case adjactente à l'eau.</RBB.Boardwalk>
+  <RBB.NoFloorOnBridge>Ne peut pas poser un sol sur un pont.</RBB.NoFloorOnBridge>
+  <RBB.NotOnFS>Ne peut pas être placé sur une zone de pêche.</RBB.NotOnFS>
+  <RBB.FSTooClose>Une autre zone de pêche est trop proche.</RBB.FSTooClose>
+  <RBB.FishingSpot1>Doit être placé avec la zone de pêche sur l'eau ou le marais, pas la boue.</RBB.FishingSpot1>
+  <RBB.FishingSpot2>Doit être placé avec la zone de pêche sur l'eau et le point d'interaction doit être sur un pont ou une jetée.</RBB.FishingSpot2>
+  <RBB.ShellfishTrap>Doit être placé sur l'eau ou le marais adjacent à un pont ou une promenade.</RBB.ShellfishTrap>
+  <RBB.TrapTooClose>Un autre piège à coquillages est trop proche.</RBB.TrapTooClose>
+
+</LanguageData>
