@@ -5,7 +5,7 @@
   <RBB_Bridge.description>Un simple pont en bois. Utile pour traverser les rivières sans se mouiller les pieds.</RBB_Bridge.description>
 
   <RBB_DeepBridge.label>Pont en eau profonde en bois</RBB_DeepBridge.label>
-  <RBB_DeepBridge.description>Un pont en bois robuste et renforcé, conçu pour permettre le passage des eaux l'eau profonde. Un peu plus difficile à construire qu'un pont de base. Ne peut être construit que sur des eaux profondes.</RBB_DeepBridge.description>
+  <RBB_DeepBridge.description>Un pont en bois robuste et renforcé, conçu pour permettre le passage des eaux profondes. Un peu plus difficile à construire qu'un pont de base. Ne peut être construit que sur des eaux profondes.</RBB_DeepBridge.description>
 
   <RBB_Boardwalk.label>Promenade</RBB_Boardwalk.label>
   <RBB_Boardwalk.description>Celà ressemble à un pont, mais c'est posé sur la terre. Utilisez-le en tant que finition esthétique de vos ponts ou de vos quais. Peut être construit sur un terrain à proximité immédiate de l'eau.</RBB_Boardwalk.description>
@@ -15,7 +15,7 @@
   
 
   <RBB_DeepBridge_Stone.label>Pont en eau profonde en pierre</RBB_DeepBridge_Stone.label>
-  <RBB_DeepBridge_Stone.description>Un pont en pierre robuste et renforcé, conçu pour permettre le passage des eaux plus profondes. Un peu plus difficile à construire qu'un pont de base. Ne peut être construit que sur les eaux profondes.</RBB_DeepBridge_Stone.description>
+  <RBB_DeepBridge_Stone.description>Un pont en pierre robuste et renforcé, conçu pour permettre le passage des eaux profondes. Un peu plus difficile à construire qu'un pont de base. Ne peut être construit que sur les eaux profondes.</RBB_DeepBridge_Stone.description>
   
   <RBB_Boardwalk_Stone.label>Promenade (pierre)</RBB_Boardwalk_Stone.label>
   <RBB_Boardwalk_Stone.description>Celà ressemble à un pont, mais c'est posé sur la terre. Utilisez-le en tant que finition esthétique de vos ponts ou de vos quais. Peut être construit sur un terrain à proximité immédiate de l'eau.</RBB_Boardwalk_Stone.description>
